@@ -1,0 +1,18 @@
+📁 DairyNutri-AI
+│
+├── 📁 data
+│   └── dairy_products.csv
+│
+├── 📁 notebooks
+│   └── dairy_analysis.ipynb
+│
+├── 📁 src
+│   ├── data_processing.py
+│   ├── analysis.py
+│   └── model.py
+│
+├── 📄 app.py
+├── 📄 requirements.txt
+├── 📄 README.md        ← already have this
+├── 📄 LICENSE          ← already have this
+└── 📄 .gitignore       ← already have this
