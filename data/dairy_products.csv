@@ -1,0 +1,15 @@
+Product,Category,Energy_kcal,Fat_g,Protein_g,Carbohydrate_g,Calcium_mg,Sodium_mg,Water_g
+Whole milk,Milk,61,3.25,3.15,4.80,113,43,88.13
+Low-fat milk,Milk,42,0.97,3.37,4.99,125,44,89.92
+Skim milk,Milk,34,0.08,3.43,4.96,122,42,90.80
+Buttermilk,Milk,40,0.88,3.31,4.79,116,105,90.13
+Plain whole-milk yogurt,Yogurt,61,3.25,3.47,4.66,121,46,87.90
+Greek yogurt whole milk,Yogurt,97,5.00,9.00,3.98,100,36,81.13
+Plain nonfat yogurt,Yogurt,56,0.18,5.73,7.68,183,70,85.07
+Cottage cheese full fat,Cheese,98,4.30,11.12,3.38,83,364,79.79
+Cheddar cheese,Cheese,403,33.31,24.90,1.28,721,621,36.75
+Feta cheese,Cheese,265,21.49,14.21,3.88,493,1116,55.22
+Parmesan cheese,Cheese,392,25.83,35.75,3.22,1184,1602,29.16
+Cream cheese,Cheese,342,34.24,5.93,4.07,98,365,52.66
+Heavy cream,Cream,340,36.08,2.11,2.84,65,38,57.71
+Sour cream,Cream,198,19.35,2.44,4.63,101,31,72.30
